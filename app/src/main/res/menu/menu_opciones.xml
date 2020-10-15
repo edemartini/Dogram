@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mRanking"
+        android:icon="@drawable/icon_star"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Ranking">
+    </item>
+    <item
+        android:id="@+id/mContacto"
+        android:orderInCategory="101"
+        android:title="@string/menu_contacto">
+    </item>
+    <item
+        android:id="@+id/mAcercaDe"
+        android:orderInCategory="102"
+        android:title="@string/menu_acerca_de">
+    </item>
+</menu>

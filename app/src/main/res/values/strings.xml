@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">New Mascotas</string>
+    <string name="pnombre">nombre</string>
+    <string name="prating">rating</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="bio_desarrollador">Esta aplicación fue desarrollada por Enrique De Martini. Me apasiona incursionar en el mundo de las TICs y poder desarrollar aplicaciones que faciliten la vida de las personas.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
